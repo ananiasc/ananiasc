@@ -2,13 +2,13 @@
 
 ---
 
-- 🔥 Desenvolvedor Java.
-- 💻 Atualmente trabalho na VILT, uma empresa especializada em otimizar experiências do cliente e eficiência operacional em todos os setores do mundo.
+- 🔥 Analista Desenvolvedor.
+- 💻 Atualmente trabalho na Qintess, uma empresa global de tecnologia com profundas raízes no Brasil, com uma sólida presença em 9 países e mais de 800 clientes em 14 cidades ao redor do mundo.
 - :muscle: Back End - Trabalho primariamente com Java (Spring Framework e Spring Boot) e também com algumas APIs em Node Js.
 - 💬 Front End - Já trabalhei com JavaScript e TypeScript utilizando os frameworks Angular e Angular JS.
 - 👨‍💻 Estou me aprofundando em Spring Boot e para isso estou criando um backend de uma aplicação e-commerce direcionando meu conhecimento de mercado nele junto a boas práticas de desenvolvimento.
 - 🎓 Bacharel em Ciência da Computação pelo IFCE, Campus Tianguá (2023).
-- 🎓 Cursando especialização em Arquitetura de Software Distribuído.
+- 🎓 Especialista em Arquitetura de Software Distribuído.
 - 📫 Para mais contatos: [Links - ananiasc.dev](https://ananiasc.dev)
 - Portfólio: [ananiascaetano.com.br](https://ananiascaetano.com.br)
 - GitLab: [ananiasac](https://gitlab.com/ananiasac)
